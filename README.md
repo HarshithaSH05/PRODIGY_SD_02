@@ -1,4 +1,4 @@
-# 🎯 Guess Master – Smart Number Guessing Game
+# Guess Master – Smart Number Guessing Game
 
 Guess Master is an interactive and creative Number Guessing Game built using Streamlit.  
 The game challenges users to guess a randomly generated number with hints, scoring, difficulty levels, and leaderboard tracking.
@@ -10,10 +10,11 @@ This project demonstrates Python programming, UI development, and web app deploy
 ##  Live Demo
 The application is deployed and accessible here:
 
+https://appigysd02-5mjzbpxtqvp2eau2vvrqwu.streamlit.app/
 
 ---
 
-## ✨ Features
+##  Features
 - Interactive web-based game UI
 - Multiple difficulty levels
 - Score tracking system
